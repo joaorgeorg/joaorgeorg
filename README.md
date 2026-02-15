@@ -1,8 +1,8 @@
-## 🧐 Olá! eu sou João Georg
+## Olá! eu sou João Georg 🧐
 
 *Desenvolvedor Front-End*
 
-Olá, me chamo João Georg e sou programador Front-End. Atualmente, estou criando projetos com HTML e CSS, JavaScript e React. Busco me profissionalizar na área da tecnologia, e com esse perfil, tenho como objetivo, além de compartilhar meus projetos, registrar minha evolução como programadora e aplicar a melhoria contínua em minha trajetória.
+Olá, me chamo João Georg e sou programador Front-End. Atualmente, estou criando projetos com HTML e CSS, JavaScript e React. Migrei para a área da tecnologia porque sempre fui fascinado por essa área, e com esse perfil, tenho como objetivo, além de compartilhar meus projetos, registrar minha evolução como programadora e aplicar a melhoria contínua em minha trajetória.
 
 ---
 
