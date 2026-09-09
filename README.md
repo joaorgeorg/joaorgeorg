@@ -1,74 +1,53 @@
-## Olá! eu sou João Georg 🧐
+<h1 align="center">João Georg 👨‍💻</h1>
 
-*Desenvolvedor Front-End*
+<p align="center"> <strong>Desenvolvedor Full-Stack</strong> focado em desenvolvimento web e novas possibilidades com Inteligência Artificial. </p>
 
-Olá, me chamo João Georg e sou programador Front-End. Atualmente, estou criando projetos com HTML e CSS, JavaScript e React. Migrei para a área da tecnologia porque sempre fui fascinado por essa área, e com esse perfil, tenho como objetivo, além de compartilhar meus projetos, registrar minha evolução como programadora e aplicar a melhoria contínua em minha trajetória.
+<p align="center"> <a href="https://github.com/joaorgeorg">GitHub</a> • <a href="mailto:joaorgeorg@gmail.com">E-mail</a> </p>
 
----
+🚀 Sobre
 
-### 🤖 Linguagens e Conhecimentos
+Sou Desenvolvedor Full-Stack, atuando profissionalmente com tecnologia desde novembro de 2025.
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+Minha experiência é voltada principalmente para o desenvolvimento web com JavaScript, TypeScript e React, criando projetos e soluções que buscam unir funcionalidade, eficiência e uma boa experiência para o usuário.
 
-<br/>
-<br/>
+A programação entrou na minha trajetória através do interesse por tecnologia e resolução de problemas. Desde então, venho evoluindo por meio de projetos práticos, freelances e estudos contínuos, utilizando o GitHub também como espaço para compartilhar parte desse processo.
 
-### Connect with me:
+Antes da tecnologia, atuei por aproximadamente 5 anos na área de Educação Física, como Instrutor de Musculação e Personal Trainer. Essa experiência contribuiu para desenvolver competências que levo comigo para a tecnologia, como comunicação, escuta ativa, relacionamento com pessoas, identificação de necessidades e foco em resultados.
 
-<p>
-<a href="https://www.instagram.com/joaorgeorg/">
-<img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.linkedin.com/in/joaorgeorg">
-<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-</p>
-<br/>
-<br/>
+Atualmente, também estou explorando o universo de Inteligência Artificial, Engenharia de Prompt e Agentes de IA, buscando entender e aplicar essas tecnologias na criação de soluções cada vez mais inteligentes e eficientes.
+
+🧰 Stack atual
+
+<p> <img src="https://skillicons.dev/icons?i=javascript,typescript,react,html,css,git,github" alt="JavaScript, TypeScript, React, HTML, CSS, Git e GitHub" /> </p>
+
+🎯 No que estou focado
+
+Desenvolvimento
+
+Desenvolvimento Full-Stack
+JavaScript, TypeScript e React
+Criação de aplicações web
+Projetos práticos e freelances
+
+Inteligência Artificial
+
+IA Generativa
+Engenharia de Prompt
+Agentes de IA
+Aplicações práticas de IA
+
+Evolução profissional
+
+Aprendizado contínuo
+Boas práticas de desenvolvimento
+Resolução de problemas
+Colaboração e metodologias ágeis
+💼 Experiência atual
+
+Atualmente, atuo como Desenvolvedor Full-Stack na Bloom Pages, contribuindo com o desenvolvimento de soluções web e colocando em prática minha experiência com desenvolvimento e tecnologia.
+
+📫 Vamos conversar?
+
+<p> <a href="mailto:joaorgeorg@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" width="35" alt="E-mail" /> </a> &nbsp; <a href="https://github.com/joaorgeorg"> <img src="https://skillicons.dev/icons?i=github" width="35" alt="GitHub" /> </a> </p>
+
+<p align="center"> <i>Construindo, aprendendo e evoluindo um projeto de cada vez. 🚀</i> </p>
